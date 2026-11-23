@@ -1,0 +1,2 @@
+Model,Target,Features,Architecture,Activation,Lambda_PDE,Lambda_BC,MAE,RMSE,R2,Max_Error
+V16B_Softplus_Physics,sqrt(Temperature),9,128-64,Softplus,0.01,0.01,1.0045324563980103,2.270123665419756,0.8944680690765381,7.428344
