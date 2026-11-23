@@ -1,10 +1,8 @@
 numpy
 pandas
+scikit-learn
+torch
 matplotlib
 seaborn
-scikit-learn
-scipy
-torch
 jupyter
-ipykernel
 openpyxl
